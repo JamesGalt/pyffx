@@ -7,7 +7,7 @@ with open('README.rst') as f:
 
 setup(
     name='pyffx',
-    url='http://github.com/JamesGalt/pyffx/',
+    url='https://github.com/JamesGalt/pyffx/',
     version='0.2.1',
     packages=find_packages(),
     license=u'MIT License',
